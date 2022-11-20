@@ -19,9 +19,9 @@ let count = 0;
         if (count > 0){
             value.style.color = "red";
         }else if(count < 0){
-            value.style.color = "pink";
+            value.style.color = "black";
         }else{
-            value.style.color = "purple";
+            value.style.color = "green";
         }
 
         value.textContent = count;

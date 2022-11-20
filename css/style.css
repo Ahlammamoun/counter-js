@@ -1,0 +1,29 @@
+
+
+
+/*backgroud color container*/
+.container {
+    background-color: beige;
+}
+
+/*title*/
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: gold;
+}
+
+/*few style on buttons*/
+.button-container {
+    text-align: center;
+    background-color: black;
+    margin-left: 25%;
+    margin-right: 25%;
+    color: gold;
+    height: 45px;
+}
+
+.value {
+    text-align: center;
+    font-size: xx-large;
+}
